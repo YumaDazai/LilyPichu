@@ -41,7 +41,7 @@
   --interactive-active: #e2c1c7;
 
   /* Background color */
-  --background-primary: #5e3640;
+  --background-primary: rgba(94, 54, 64, .5);
   --background-secondary: #49292f;
   --background-secondary-alt: #3b1d24;
   --background-tertiary: #220f14;
