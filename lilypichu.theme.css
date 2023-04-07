@@ -21,7 +21,7 @@
 
 --background-tertiary-alt: url("image-link"); without that => */
   --background-tertiary-alt: url("https://raw.githubusercontent.com/YumaDazai/LilyPichu/main/wp11563091-maxident-skz-wallpapers.jpg");
-  --container-text: "Stay make Stray Kids Stay";
+
   /* Border-radius for the whole theme */
   --border-radius: 20px;
 }
@@ -155,4 +155,7 @@
 .colorDefault-CDqZdO.focused-3qFvc8,
 .colorDefault-CDqZdO:active:not(.hideInteraction-2jPGL_) {
   color: var(--interactive-normal);
+}
+.app-3xd6d0::before, .app-3xd6d0::after {
+    content: none !important;
 }
