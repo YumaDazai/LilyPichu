@@ -157,6 +157,9 @@
     content: none !important;
 }
 
+:root .app_b1f720::before, :root .app_b1f720::after, :root .app_de4237::after, :root .app_de4237::before, :root .layers__1c917::before, :root .layers__1c917::after, :root .app_b1f720::before, :root .bg__12180::after, :root .bg__12180::before {
+  content: none !important;
+}
 /* Basic right popout when there's nothing*/
   .container__037ed::after {
     content: "Stay make Stray Kids Stay";
